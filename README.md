@@ -88,7 +88,7 @@ This project represents how I like to work — combining curiosity, structure, a
 As someone transitioning into business consulting, this project helped me put my analytical learning into action and think like a problem solver.  
 I’m excited to bring this mindset to real-world consulting environments like **Bain & Company**, where data and strategy go hand-in-hand to drive transformation.
 
-🔄 Analysis is ongoing; additional dashboards and deeper insights will be added shortly.
+
 
 ---
 
