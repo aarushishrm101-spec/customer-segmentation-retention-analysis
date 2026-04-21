@@ -44,6 +44,7 @@ Dashboard & Visualization
 * Built interactive dashboard to track customer behavior and revenue contribution
 
 📊 Key Insights:
+Link for the cleaned dataset( along with analysis ) :https://1drv.ms/x/c/dd00843e7401dda4/IQAyy2W7fZtjQ4NuAI-IpIuCAarcUTP_ioDgzzjK4Z2FUA8?e=E9DDWg
 ~20% of customers contribute to a majority of revenue
 A significant portion of customers fall into the At-Risk segment
 High-frequency customers show strong loyalty and upsell potential
