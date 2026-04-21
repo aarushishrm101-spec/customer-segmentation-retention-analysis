@@ -63,6 +63,16 @@ Customer retention presents a major growth opportunity
 🔁 Upsell Loyal customers with premium offerings
 📈 Nurture Regular customers into higher-value segments
 
+## 📊 Project Visuals
+
+### RFM Segmentation Table
+![RFM Table](RFM_table.png)
+
+### Customer Distribution by Segment
+![Segment Distribution](segment_dist.png)
+
+
+
 🧠 Key Learnings:
 Applied RFM segmentation on real-world dataset
 Translated data insights into business strategies
