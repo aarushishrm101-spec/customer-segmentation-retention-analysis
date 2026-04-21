@@ -81,7 +81,7 @@ Built a structured, consulting-style solution approach
 
 🔗 Project Assets
 📄 Detailed Documentation: https://bit.ly/471EPoP
-📊 Excel Model:https://bit.ly/4vKT3Gm
+
 👩‍💻 Author
 
 Aarushi Sharma
